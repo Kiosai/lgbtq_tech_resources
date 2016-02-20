@@ -22,6 +22,7 @@ http://www.diversityhackers.com/ - Mailing list about diversiyfing startups
 http://www.themarysue.com/
 http://everydayfeminism.com/
 http://www.blackgirldangerous.org/
+http://beyondthebinary.co.uk/
 
 ##Videos
 
