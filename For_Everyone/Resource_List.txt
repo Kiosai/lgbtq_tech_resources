@@ -1,0 +1,29 @@
+# LGBTQ Tech Resources - For Everyone
+
+Aggregation of links to resources specifically geared towards LGBTQ people working in tech and their allies.
+
+##Communities
+http://www.meetup.com/Boston-Devops/
+
+##Blogs - Organizations
+
+##Blogs - Personal
+
+##Twitter Accounts
+
+##Mailing Lists
+
+##Sites
+http://www.themarysue.com/ <br>
+http://everydayfeminism.com/ <br>
+http://www.blackgirldangerous.org/ <br>
+
+##Videos
+
+##Books
+
+##Events
+http://www.devopsdays.org/
+
+##Aggregators
+https://github.com/dustinmm80/devops_resources
